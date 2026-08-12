@@ -1,0 +1,258 @@
+======================================================================
+RAG EVALUATION REPORT
+======================================================================
+
+Total questions: 10
+
+Scoring rubric:
+1 point = correct, grounded answer or correct refusal.
+0 points = incorrect, unsupported, or inappropriate answer.
+
+======================================================================
+Question 1 (answerable)
+======================================================================
+
+Question:
+What are the principles of admission to taught courses?
+
+Expected document:
+Section 3 - Admissions Regulations
+
+Answer:
+According to Section 3: Admissions Regulations for Taught Courses, the University will admit students to its courses on the basis of the following principles:
+
+a) reasonable expectation that the applicant will fulfil the objectives of the course and achieve the standard required for the award;
+b) the University’s requirements for admission to the course leading to a particular award;
+c) equality of opportunity for all applicants.
+
+Additionally, according to Section 2: Statutes and Principles, the University will admit students to its courses on the basis of the following principles:
+
+a) reasonable expectation that the applicant will be able to fulfil the objectives of the course and achieve the academic standard required for the award;
+b) the University’s requirements for admission to the course leading to a particular award;
+c) equality of opportunity for all applicants.
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 1)
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 3)
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 2)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 3)
+
+======================================================================
+Question 2 (answerable)
+======================================================================
+
+Question:
+What evidence does the University consider when assessing individual applicants for admission?
+
+Expected document:
+Section 2 - Statutes and Principles
+
+Answer:
+The University will seek evidence of personal, professional and/or educational experiences that provide indications of ability to meet the demands of the course.
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 3)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 1)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 3)
+
+======================================================================
+Question 3 (answerable)
+======================================================================
+
+Question:
+What are the regulations for admission to a course with credit or exemption?
+
+Expected document:
+Section 3 - Admissions Regulations
+
+Answer:
+According to Section 3 of the Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf, the University will consider admission to a course with credit or exemption on the basis of prior learning and/or prior experiential learning (Section 3.20). 
+
+Additionally, Section 4 of the Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf states that credit for prior learning must relate to named modules (Section 4.9) and can only be awarded for whole modules, not for part of a module (Section 4.3).
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 3)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 1)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 2)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 1)
+
+======================================================================
+Question 4 (answerable)
+======================================================================
+
+Question:
+What is Recognition of Prior Learning?
+
+Expected document:
+Section 4 - RPL Regulations
+
+Answer:
+Recognition of Prior Learning (RPL) is defined as the process by which appropriate learning from another institution is accredited towards a University of Westminster award.
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 3)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 4)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 5)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 2)
+
+======================================================================
+Question 5 (answerable)
+======================================================================
+
+Question:
+What types of prior learning can be considered for admission with credit or exemption?
+
+Expected document:
+Section 3 / Section 4
+
+Answer:
+Prior learning that can be considered for admission with credit or exemption includes:
+
+- Certificated prior learning
+- Uncertificated prior learning
+- Instruction-based learning, provided by any institution, which has not been examined in any of the public examination systems
+- Experiential learning from a variety of sources, such as:
+  - Within the workplace
+  - From training courses, which the individual has completed but which are not certificated
+  - Through experience in voluntary work
+  - By individual study
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 3)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 2)
+- Academic-regs-2025-26-Section-4-Recognition-of-Prior-Learning-(RPL)-regulations.pdf (Page 5)
+
+======================================================================
+Question 6 (answerable)
+======================================================================
+
+Question:
+What documents contain information about academic regulations?
+
+Expected document:
+Section 1 - Introduction
+
+Answer:
+The following documents contain valuable information and can be accessed online:
+
+1. Quality Assurance and Enhancement Handbook
+2. Student Charter
+3. Student Code of Conduct
+4. University Calendar
+5. Collaborations Handbook
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-1-Introduction.pdf (Page 1)
+- Academic-regs-2025-26-Section-1-Introduction.pdf (Page 2)
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 4)
+
+======================================================================
+Question 7 (answerable)
+======================================================================
+
+Question:
+Who is responsible for maintaining academic standards in the University?
+
+Expected document:
+Section 2 - Statutes and Principles
+
+Answer:
+According to Section 2: Statutes and Principles, Page 2, Academic Council is responsible for maintaining academic standards in the University.
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 3)
+- Academic-regs-2025-26-Section-1-Introduction.pdf (Page 1)
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 5)
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 2)
+
+======================================================================
+Question 8 (answerable)
+======================================================================
+
+Question:
+What do course regulations include?
+
+Expected document:
+Section 2 - Statutes and Principles
+
+Answer:
+Course regulations include:
+
+a) Regulations on the admission of students to a course 
+b) Regulations on progression 
+c) Regulations on assessment
+
+Score: 1/1
+
+Retrieved Sources:
+- Academic-regs-2025-26-Section-2-Statutes-and-principles.pdf (Page 4)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 1)
+- Academic-regs-2025-26-Section-3-Admissions-regulations-for-taught-courses.pdf (Page 3)
+- Academic-regs-2025-26-Section-1-Introduction.pdf (Page 1)
+
+======================================================================
+Question 9 (unanswerable)
+======================================================================
+
+Question:
+What is the University cafeteria menu for today?
+
+Expected document:
+Not covered by the documents
+
+Answer:
+I could not find the answer in the provided documents.
+
+Score: 1/1
+
+Retrieved Sources:
+- No sources retrieved.
+
+======================================================================
+Question 10 (unanswerable)
+======================================================================
+
+Question:
+What is the weather today?
+
+Expected document:
+Not covered by the documents
+
+Answer:
+I could not find the answer in the provided documents.
+
+Score: 1/1
+
+Retrieved Sources:
+- No sources retrieved.
+
+======================================================================
+EVALUATION SUMMARY
+======================================================================
+
+Total questions: 10
+Answerable questions: 8
+Unanswerable questions: 2
+Correct: 10
+Incorrect: 0
+Score: 10/10
+Accuracy: 100.00%
+Successfully processed: 10
+Failed to process: 0
+Average latency: 16.36 seconds
+
+Overall execution status: SUCCESS
