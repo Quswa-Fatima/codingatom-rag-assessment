@@ -107,17 +107,20 @@ Displays the source PDF and page number.
 
 This allows the generated answer to be traced back to the supplied academic regulations.
 
-7. Language Model
+## 7. Language Model
 
 The application uses:
 
-llama-3.1-8b-instant
+`openai/gpt-oss-20b`
 
 through the Groq API.
 
 The Groq API key is stored in an environment variable and is not hard-coded into the application.
 
+The model was selected as the replacement for the previously used `llama-3.1-8b-instant` model, which was scheduled for decommissioning.
+
 8. Installation
+
 Create a virtual environment
 
 On Windows PowerShell:
