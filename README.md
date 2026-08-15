@@ -160,18 +160,20 @@ What do course regulations include?
 
 The application also includes example questions through the Streamlit interface.
 
-11. Evaluation
+## 11. Evaluation
 
 The project contains a 10-question evaluation set:
 
-8 answerable questions
-2 deliberately unanswerable questions
+- 8 answerable questions
+- 2 deliberately unanswerable questions
 
 The scoring rubric is:
 
-1 point: Correct, grounded answer or correct refusal for an unanswerable question
-0 points: Incorrect, unsupported, or inappropriate answer
-Evaluation Results
+- 1 point: Correct, grounded answer or correct refusal for an unanswerable question
+- 0 points: Incorrect, unsupported, or inappropriate answer
+
+### Evaluation Results
+
 Total questions: 10
 Answerable questions: 8
 Unanswerable questions: 2
@@ -182,37 +184,38 @@ Accuracy: 100.00%
 Successfully processed: 10
 Failed to process: 0
 
+
 The evaluation results are saved in:
 
-evaluation/results.txt
-Run the evaluation
+`evaluation/results.txt`
+
+Average latency: **10.64 seconds per request**
+
+Run the evaluation:
+
+```bash
 python -m evaluation.run_evaluation
 
 
-12. Latency
+## 12. Latency
 
 The measured average end-to-end latency across the 10-question evaluation was:
 
-16.36 seconds per request
+**10.64 seconds per request**
 
 This is the measured evaluation-pipeline latency and should not be interpreted as LLM-only inference time.
 
 Actual latency can vary depending on model loading, network conditions, retrieval, query length, and API response time.
 
-13. Estimated Cost
+## 13. Estimated Cost
 
-The project uses the Groq llama-3.1-8b-instant model.
+The project uses the Groq `openai/gpt-oss-20b` model.
 
-A rough estimated cost of approximately:
+A rough estimated cost depends on the number of input and output tokens used for each request.
 
-$0.00012 per request
+Actual cost varies depending on token usage and the applicable Groq API pricing.
 
-was calculated using an assumed usage of approximately:
-
-2,000 input tokens
-300 output tokens
-
-Actual cost varies depending on the number of input and output tokens used for each request.
+The previous cost estimate was based on the retired `llama-3.1-8b-instant` model and is therefore not used as the final estimate for the updated system.
 
 14. Failure Cases
 Failure Case 1 — Out-of-Scope Query
